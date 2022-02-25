@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 1px;
+}
+.btn:hover {
+		color: white;
+		opacity: .8;
+		transform: scale(1.05);
+	}
+   
+    div#ThisNavbar {
+        background: #ccc;
+    }
+
+    .navbar-header {
+        background: #ccc;
+    }
+
+    .navbar-inverse .navbar-nav>li>a {
+        color: #000000;
+        border-bottom: 1px solid #000;
+    }
